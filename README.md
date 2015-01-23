@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Getting and Cleaning Data: Course Project
 ###Introduction
 
@@ -22,3 +23,7 @@ Lastly, the script will create a tidy data set containing the means of all the c
 ##About the Code Book
 
 The CodeBook.md file explains the transformations performed and the resulting data and variables.
+=======
+# Getting-Cleaning-Data-Project
+This repo has the course project for the coursera course for Getting and Cleaning Data
+>>>>>>> b16599592c3bcb91144746a3ade0529b65f63f1a
